@@ -1,9 +1,9 @@
-// routes
+// Routes
 import Router from "./routes";
-// theme
-import ThemeProvider from './theme';
-// components
-import ThemeSettings from './components/settings';
+// Theme
+import ThemeProvider from "./theme";
+// Components
+import ThemeSettings from "./components/settings";
 
 function App() {
   return (
